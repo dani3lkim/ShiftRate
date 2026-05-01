@@ -11,7 +11,7 @@ Anonymous workplace reviews for restaurant and retail hourly workers — think R
 - **Frontend**: React 18 + Vite
 - **Styling**: Tailwind CSS v3
 - **Database + Auth**: Supabase
-- **Deployment**: Netlify
+- **Deployment**: Vercel
 
 ---
 
